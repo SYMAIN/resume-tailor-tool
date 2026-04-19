@@ -1,0 +1,45 @@
+About the job
+Aplin is partnered with a global leader to hire an Electrical Design Engineer to join their team in Brampton, ON. This role will start as a 1 year contract with opportunity for extension or conversion to permanent.
+
+About the Role:
+
+We are seeking a Design Engineer to support avionics box design and electrical engineering initiatives within advanced robotics and space-related programs. This role involves supporting ongoing operational programs as well as new development and R&D initiatives.
+You will work closely with cross-functional engineering teams to develop detailed mechanical and electrical design solutions for space and terrestrial applications.
+
+Key Responsibilities:
+
+Candidates do not need experience in every area below but should demonstrate solid CAD and drawing experience.
+Prepare drawings and Bills of Materials (BOM) for:
+Avionics chassis
+Circuit Card Assemblies (CCA)
+Printed Circuit Boards (PCB)
+Cable harness designs
+Create cable assembly drawings using NX or AutoCAD to established standards
+Interpret client requirements and develop compliant design solutions
+Design cable mechanisms for rotary interfaces
+Perform cable routing and 3D modeling
+Integrate electrical, materials, thermal, and structural design inputs into 3D models
+Support avionics chassis design with considerations for EMI/EMC, thermal, structural, mass, and volume constraints
+Develop production, assembly, and parts list drawings
+Create and maintain standard manuals, processes, and templates
+Contribute to internal CAD libraries of parts and product components
+ Qualifications:
+Bachelor’s degree in Aerospace, Electrical, Mechanical, Computer, or Systems Engineering
+Strong written and verbal communication skills
+Detail-oriented with strong critical thinking abilities
+Able to work in a fast-paced, requirement-driven environment
+Team-oriented with a high level of integrity
+Customer-focused mindset
+ Assets (Nice to Have):
+Knowledge of geometric tolerancing and drawing standards
+Experience in the space or aerospace sector
+Experience with NX/Teamcenter, AutoCAD, AutoCAD Electrical, MS Visio, Altium, or OrCAD
+Security Requirements:
+Successful candidates must be eligible to obtain and maintain:
+Reliability Status security clearance
+Controlled Goods Program (CGP) clearance
+ITAR compliance
+
+
+At Aplin — together with our brands CompuStaff and Impact Recruitment — we connect great people with great organizations across North America. We believe diverse teams build stronger companies, and we welcome applicants from all backgrounds, experiences, and perspectives. We use AI tools to assist in a fair and efficient matching process, helping our recruiters connect the right people with the right opportunities. To be considered, applicants must be legally entitled to work in Canada, including holding any required permits. Our recruitment services are always free for job seekers.
+
