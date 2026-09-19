@@ -1,0 +1,43 @@
+NO SPECIFIC POSTING — ROLE-LEVEL BASE CUT
+Created 2026-08-17
+
+This folder is a deviation from the usual {company}/{role}/ convention: there is no
+job description because there is no specific employer. It is a general-purpose gas
+technician resume to be COPIED into a real application folder and sharpened against
+an actual posting.
+
+TARGET
+Gas technician roles broadly — both new construction install and service/repair.
+Positioned at the G3-certified, G2-in-progress level, seeking progression to G2/G1.
+
+WHAT THIS CUT DOES
+- Leads with gas credentials and field experience, not the engineering diploma.
+- Certifications section promoted to directly under the summary (G3, G2 in progress
+  with the TSSA exam date, WHMIS, Working at Heights). For trades hiring, tickets are
+  the first screen.
+- Gas & Mechanical skills line first; Electrical second as a supporting differentiator.
+- Gas Technician Co-op leads Work Experience with the most bullets (6).
+- HVAC Assistant promoted above Electrician Assistant despite an earlier end date,
+  because ductwork/brazing/refrigerant work is closer to the target role than
+  general electrical assistance. This is a deliberate break from strict reverse
+  chronology — revert it if a posting is electrical-leaning.
+- Education moved BELOW experience, ordered gas-first: G2, then G3, then the diploma.
+
+WHAT WAS CUT FROM master.tex, AND WHY
+- All software/AI projects (PERFORMANCE_LAB, Tether, Almanac, Tiffy's Classroom,
+  BTD6 Bot) — irrelevant to gas work and actively harmful here; they suggest the
+  candidate is passing through on the way to something else.
+- All electrical/embedded projects (street lighting, circadian lighting, adaptive
+  headlights, LED cube, pathfinding) — same reasoning, plus page budget.
+- Web Developer (Riipen), Operations & Systems Assistant (Microgreen Solar),
+  Food Service Worker (Pineapple Queen) — no transferable signal for this role.
+- The "Claude (AI-Assisted Development)" skills entry.
+
+BEFORE SENDING — VERIFY
+- "Valid Ontario driver's licence" is asserted in Certifications. Most gas
+  technician postings require one. CONFIRM THIS IS TRUE and remove the line if not.
+- School name spellings: "Stanford College" (Toronto) and "Himark College" are as
+  dictated, not verified. Himark's city is listed only as "Ontario".
+- G3 year (2025) is inferred from the certifications list in master.tex.
+- "HVAC Contractor" and "Construction Inc" are placeholder employer names carried
+  over from master.tex. Replace with real company names before submitting.
